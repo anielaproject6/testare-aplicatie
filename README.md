@@ -1,0 +1,2 @@
+# testare-aplicatie
+testare manuala
