@@ -76,7 +76,7 @@ Test case design(based on Project stories)
 
 **Project Epic**
 
-•[Project Epic1]()
+•[Project Epic1](Screenshot 2022-10-16 145224.png)
 
 •[The user should be able to register](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145026.png)
 
