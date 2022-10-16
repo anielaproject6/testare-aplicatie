@@ -82,7 +82,7 @@ Test case design(based on Project stories)
 
 •[The user should be able to login using a registered account](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145302.png)
 
-•[The user should be able to browse the store]()
+•[The user should be able to browse the store](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20161904.png)
 
 •[The user should be able to add a product to the cart]()
 
