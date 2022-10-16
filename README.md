@@ -1,4 +1,4 @@
-# testare-aplicatie
+# testare-OPENCART
 testare manuala
 This is repository is made for demo purposes
 
