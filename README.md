@@ -1,5 +1,5 @@
-# testare-OPENCART
-testare manuala
+# testare manuala-OPENCART
+
 This is repository is made for demo purposes
 
 opencart-
