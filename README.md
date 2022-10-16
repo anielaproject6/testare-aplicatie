@@ -6,7 +6,7 @@ opencart-
 
 https://www.opencart.com/
 
-Project Requirements
+**Project Requirements**
 
 •The user should be able to register
 
@@ -22,7 +22,7 @@ Project Requirements
 
 •The user should be able to user the application on mobile also(mobile friendly)
 
-Project Roles/Needs
+**Project Roles/Needs**
 
 •1 Lead developer
 
@@ -38,7 +38,7 @@ Project Roles/Needs
 
 •The project must be completed in 12 monts
 
-Entry Criteria
+**Entry Criteria**
 
 1.Complete or partially testable code is avaible.
 
@@ -50,7 +50,7 @@ Entry Criteria
 
 5.Test enviroment has been setup and all other necessary resources such as tools and devices are avaible.
 
-Exit Criteria
+**Exit Criteria**
 
 1.Deadlines meet or budget depleted.
 
@@ -62,7 +62,7 @@ Exit Criteria
 
 5.No high priority or severity or critical bug has been left out.
 
-Risks
+**Risks**
 
 • the amount of man power might not to be enought
 
@@ -74,20 +74,20 @@ Risks
 
 Test case design(based on Project stories)
 
-Project Epic
+**Project Epic**
 
-•Project Epic1
+•[Project Epic1]
 
-•The user should be able to register
+•[The user should be able to register](https://github.com/aniela-m-itf/testitfactory/blob/main/Screenshot%202022-09-18%20153228.png)
 
-•The user should be able to login using a registered account
+•[The user should be able to login using a registered account]
 
-•The user should be able to browse the store
+•[The user should be able to browse the store]
 
-•The user should be able to add a product to the cart
+•[The user should be able to add a product to the cart]
 
-•The user should be able to customise the cart(add,update,delete)
+•[The user should be able to customise the cart(add,update,delete)]
 
-•The user should be able to search
+•[The user should be able to search]
 
-•The user should be able to user the application on mobile also(mobile friendly)
+•[The user should be able to user the application on mobile also(mobile friendly)]
