@@ -80,7 +80,7 @@ Test case design(based on Project stories)
 
 •[The user should be able to register](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145026.png)
 
-•[The user should be able to login using a registered account](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145302.png)
+•[The user should be able to login using a registered account](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145302.pnghttps://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145330.png)
 
 •[The user should be able to browse the store]()
 
