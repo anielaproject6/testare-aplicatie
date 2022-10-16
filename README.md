@@ -78,7 +78,7 @@ Test case design(based on Project stories)
 
 •[Project Epic1]
 
-•[The user should be able to register]()
+•[The user should be able to register](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145026.png)
 
 •[The user should be able to login using a registered account]()
 
