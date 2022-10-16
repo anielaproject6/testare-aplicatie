@@ -76,7 +76,7 @@ Test case design(based on Project stories)
 
 Project Epic
 
-•Project Epic1(https://anielamorogan.atlassian.net/jira/software/c/projects/OPENTEST/boards/3?modal=detail&selectedIssue=OPENTEST-1)
+•Project Epic1
 
 •The user should be able to register
 
