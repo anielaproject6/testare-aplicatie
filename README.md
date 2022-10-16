@@ -90,4 +90,6 @@ Test case design(based on Project stories)
 
 •[The user should be able to search]()
 
+•[The user should be able to add products to Favorites]()
+
 •[The user should be able to user the application on mobile also(mobile friendly)]()
