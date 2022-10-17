@@ -108,7 +108,7 @@ Test case design(based on Project stories)
 
 [**Project Test Cases**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160953.png)
 
-[**Project Issues**]()
+[**Project Issues**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20161123.png)
 
 [**Test Report**]()
 
