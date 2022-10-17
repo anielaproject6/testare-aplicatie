@@ -88,7 +88,7 @@ Test case design(based on Project stories)
 
 •[The user should be able to customise the cart(add,update,delete)](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20200652.png)
 
-•[The user should be able to search]()
+•[The user should be able to search](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20145642.png)
 
 •[The user should be able to add products to Favorites]()
 
