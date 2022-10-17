@@ -90,6 +90,6 @@ Test case design(based on Project stories)
 
 •[The user should be able to search](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20145642.png)
 
-•[The user should be able to add products to Favorites]()
+•[The user should be able to add products to Favorites](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20145730.png)
 
 •[The user should be able to user the application on mobile also(mobile friendly)]()
