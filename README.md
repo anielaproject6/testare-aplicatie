@@ -98,7 +98,7 @@ Test case design(based on Project stories)
 
 •[The user should be able to login and register an account](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160007.png)
 
-•[The user should be able to add and customise(add,update,delete) a product to the cart]()
+•[The user should be able to add and customise(add,update,delete) a product to the cart](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160049.png)
 
 •[The user should be able to add and customise(add,update,delete) a product to the cart]()
 
