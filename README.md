@@ -102,6 +102,6 @@ Test case design(based on Project stories)
 
 •[The user should be able to add and customise(add,update,delete) a product to the cart](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160140.png)
 
-•[The user should be able to search and to add products to favorites]()
+•[The user should be able to search and to add products to favorites](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160204.png)
 
 •[The user should be able to user the application on mobile also(mobile friendly).]()
