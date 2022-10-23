@@ -74,9 +74,7 @@ https://www.opencart.com/
 
 Test case design(based on Project stories)
 
-**Project Epic**
-
-•[Project Epic1](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145224.png)
+**Project Epic**(https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-23%20170226.png)
 
 •[The user should be able to register](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-16%20145026.png)
 
@@ -94,7 +92,7 @@ Test case design(based on Project stories)
 
 •[The user should be able to user the application on mobile also(mobile friendly)](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20154842.png)
 
-**Project Stories**
+**Project Stories**()
 
 •[The user should be able to login and register an account](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160007.png)
 
@@ -106,7 +104,7 @@ Test case design(based on Project stories)
 
 •[The user should be able to user the application on mobile also(mobile friendly).](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160223.png)
 
-[**Project Test Cases**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160953.png)
+[**Project Test Cases**]()
 
 [**Project Issues**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20161123.png)
 
