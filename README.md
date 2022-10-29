@@ -104,7 +104,7 @@ Test case design(based on Project stories)
 
 •[The user should be able to user the application on mobile also(mobile friendly).](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160223.png)
 
-[**Project Test Cases**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-23%20170421.png)
+[**Project Test Cases**]()
 
 [**Project Issues**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20161123.png)
 
