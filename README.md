@@ -106,7 +106,7 @@ Test case design(based on Project stories)
 
 [**Project Test Cases**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-23%20170421.png)
 
-•[The user is not able to login and to register an account]()
+•[The user is not able to login and to register an account](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140636.jpg)
 
 •[The user should be anle to browse the store]()
 
