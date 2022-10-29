@@ -104,7 +104,17 @@ Test case design(based on Project stories)
 
 •[The user should be able to user the application on mobile also(mobile friendly).](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20160223.png)
 
-[**Project Test Cases**]()
+[**Project Test Cases**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-23%20170421.png)
+
+•[The user is not able to login and to register an account]()
+
+•[The user should be anle to browse the store]()
+
+•[Cannot add and customise products to the cart]()
+
+•[You can't search and add products to favorites]()
+
+•[The user cannot use the application on mobile also]()
 
 [**Project Issues**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20161123.png)
 
