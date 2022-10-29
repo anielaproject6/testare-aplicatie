@@ -114,9 +114,9 @@ Test case design(based on Project stories)
 
 •[You can't search and add products to favorites](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140503.jpg)
 
-•[The user cannot use the application on mobile also]()
+•[The user cannot use the application on mobile also](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140355.jpg)
 
-[**Project Issues**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20161123.png)
+[**Project Issues**]()
 
 [**Test Report**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20162546.png)
 
