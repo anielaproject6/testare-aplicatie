@@ -112,7 +112,7 @@ Test case design(based on Project stories)
 
 •[Cannot add and customise products to the cart](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140534.jpg)
 
-•[You can't search and add products to favorites]()
+•[You can't search and add products to favorites](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140503.jpg)
 
 •[The user cannot use the application on mobile also]()
 
