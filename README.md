@@ -116,9 +116,9 @@ Test case design(based on Project stories)
 
 •[The user cannot use the application on mobile also](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140355.jpg)
 
-[**Project Issues**]()
+[**Project Issues**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140757.jpg)
 
-[**Test Report**](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20162546.png)
+[**Test Report**]()
 
 •[TracebilityMatrix](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-17%20162406.png)
 
