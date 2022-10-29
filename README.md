@@ -110,7 +110,7 @@ Test case design(based on Project stories)
 
 •[The user should be anle to browse the store](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140615.jpg)
 
-•[Cannot add and customise products to the cart]()
+•[Cannot add and customise products to the cart](https://github.com/anielaproject6/testare-site/blob/main/Screenshot%202022-10-29%20140534.jpg)
 
 •[You can't search and add products to favorites]()
 
